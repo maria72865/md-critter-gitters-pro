@@ -1,6 +1,7 @@
 /* Hero section */
 .hero-section {
-    background-image: url(..//images/backgrounds/raccoon.png);
+    background-image: url(..//images/backgrounds/fox1.png);
+    background-blend-mode: lighten;
     padding: 10px 50px;
     height: auto;
     background-attachment: fixed;
