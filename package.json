@@ -6,7 +6,7 @@
   "dependencies": {
     "heroku": "^7.42.1",
     "node": "^14.4.0",
-    "webpack": "^4.43.0"
+    "webpack": "^5.75.0"
   },
   "devDependencies": {},
   "scripts": {
